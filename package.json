@@ -6,6 +6,6 @@
   "author": "Guillaume AMAT <guillaume.amat@backmarket.com>",
   "license": "MIT",
   "engines": {
-	"node": ">=16.11.1"
+	"node": "14"
   }
 }
