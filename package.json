@@ -6,6 +6,9 @@
   "author": "Guillaume AMAT <guillaume.amat@backmarket.com>",
   "license": "MIT",
   "engines": {
-	"node": "14"
+    "node": "14"
+  },
+  "dependencies": {
+    "lodash.get": "^4.4.2"
   }
 }
