@@ -1,0 +1,11 @@
+{
+  "name": "test-node-upgrade",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GuillaumeAmat/test-node-upgrade.git",
+  "author": "Guillaume AMAT <guillaume.amat@backmarket.com>",
+  "license": "MIT",
+  "engines": {
+	"node": ">=16.11.1"
+  }
+}
